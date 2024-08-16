@@ -1,4 +1,4 @@
-Aqui está o README para o código que você enviou:
+
 
 ---
 
@@ -53,4 +53,3 @@ python tabuada.py
 
 ---
 
-Se precisar de mais alguma coisa, é só avisar!
